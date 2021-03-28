@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "PRFSDK"
-  spec.version      = "0.0.2"
+  spec.version      = "1.0.0"
   spec.summary      = "一段简单的框架描述"
 
   # This description is used to generate tags and improve search results.
@@ -24,9 +24,11 @@ Pod::Spec.new do |spec|
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
+  
   spec.description  = "一段详细的框架描述，这个框架可以用来自动生成时间字符串，和通过16进制字符串自动生成颜色"
 
   spec.homepage     = "https://github.com/Jissbon/Category"
+  
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
