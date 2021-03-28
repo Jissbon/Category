@@ -1,6 +1,0 @@
-framework module LGMacroAndCategoryModule {
-  umbrella header "LGMacroAndCategoryModule-umbrella.h"
-
-  export *
-  module * { export * }
-}
