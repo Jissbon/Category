@@ -15,7 +15,7 @@ Pod::Spec.new do |spec|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  spec.name         = "LGMacroAndCategoryModule"
+  spec.name         = "PRFSDK"
   spec.version      = "0.0.1"
   spec.summary      = "一段简单的框架描述"
 
@@ -38,7 +38,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.license      = "MIT"
-  spec.license      = { :type => "MIT", :file => "FILE_LICENSE" }
+  #spec.license      = { :type => "MIT", :file => "FILE_LICENSE" }
 
 
   # ――― Author Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
